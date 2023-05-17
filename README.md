@@ -1,1 +1,1 @@
-# hEx
+hEx = "The King"
